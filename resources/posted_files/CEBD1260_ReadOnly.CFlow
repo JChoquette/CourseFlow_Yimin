@@ -1,6 +1,7 @@
 <project><prname>CEBD1260</prname>
 <idnum>7186</idnum>
 <terminologyset>cegep</terminologyset>
+<readonly>true</readonly>
 <workflow><wfname>StVrsn_CEBD 1260 –Introduction to machine learning --</wfname>
 <wfauthor>Instructor: Yimin Nie</wfauthor>
 <wfdescription>&lt;p&gt;This course is the introduction todata analysis and machine learning (ML) algorithms/models/methodologies. Based on the applications in machine learning /AI in multiple businesses (i.e. finance, user behavior analysis, retailer services, etc.), the detailed models using ML to solve these practical questions will be presented and the implementation of the code will be guided step by step. &lt;/p&gt;&lt;p&gt;The following topics related to general machine learning techniques will be covered: common-used data analysis/machine learning programming tools, exploratory data analysis, feature engineering, supervised/unsupervised learning, regression, classification, tree-based models, boosting and ensemble methods, time series, data visualization, clustering, dimensionality reduction and their applications in various business cases.&lt;/p&gt;</wfdescription>
